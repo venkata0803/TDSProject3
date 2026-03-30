@@ -1,6 +1,6 @@
 {
-  "prompt": "A hyper-realistic cinematic mountain valley with two waterfalls on opposite cliffs, both clearly flowing downward into a central river, but the merged central river visibly flows uphill toward a towering mountain peak in the distance, with strong elevation cues, clearly sloped terrain, perspective showing increasing height toward the peak, water motion and foam clearly moving against gravity, dramatic natural lighting, highly detailed rocks and vegetation, physically believable but logically impossible, uncanny realism, no text, no symbols, no labels",
+  "prompt": "A surreal but photorealistic mountainous landscape where two separate hiking trails on opposite sides of a valley both appear to slope upward, with groups of people successfully climbing each path. However, when viewed from a wide perspective, both trails subtly curve and merge into a single path that descends into a deep canyon below. The scene should feel natural and physically plausible but slightly uncanny, with perspective tricks that reveal the contradiction only at a distance. No text, no symbols, no diagrams. Cinematic lighting, ultra-detailed, high resolution, 4k, atmospheric depth, realistic textures, wide-angle composition, dramatic shadows, sense of inevitability and quiet unease.",
   "model": "DALL·E 3",
   "paradox": "Simpson's Paradox",
-  "visual_logic": "Two streams each behave normally downhill, but when combined, the central flow reverses uphill, embodying how aggregated trends contradict subgroup behavior"
+  "visual_logic": "Two groups climb upward on separate paths, yet the merged path descends overall, revealing local success but global failure simultaneously."
 }
